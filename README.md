@@ -1,3 +1,3 @@
 # CTF Write-ups
 
-CTF write-ups made by myself.
+CTF write-ups made by me.
