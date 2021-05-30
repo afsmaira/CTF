@@ -1,1 +1,3 @@
-# CTF Write-ups repository
+# CTF Write-ups
+
+CTF write-ups made by me.
