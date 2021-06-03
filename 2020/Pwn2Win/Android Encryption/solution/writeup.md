@@ -1,4 +1,4 @@
-# Decrypted Vector
+# Android Encryption
 
 At script beginning, there is the following expression:
 
