@@ -1,4 +1,4 @@
-# Android Encryption
+# Androids Encryption
 
 At script beginning, there is the following expression:
 
